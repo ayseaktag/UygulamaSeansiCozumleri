@@ -1,0 +1,1 @@
+# UygulamaSeans-Cozumleri
