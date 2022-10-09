@@ -6,3 +6,7 @@ Bu kod deposunda, Women in Tech Academy uygulama seanslarında çözülen Python
 Hafta-1: Ekiple tanışma etkinliği yapıldı.
 
 Hafta-2: Python if-else, döngüler konularında sorular çözüldü.
+
+Hafta-3: Python Döngüler konusuna devam edildi. Yıldızlarla üçgen çizme ile ilgili örnekler çözüldü.
+
+Hafta-4: Python fonksiyonlar konusunda sorular çözüldü.
