@@ -1,7 +1,13 @@
 # Uygulama Seansı Çözümleri
 
-Bu kod deposunda, Women in Tech Academy uygulama seanslarında çözülen Python sorularının çözümleri yayınlanacaktır.
-![1_RJMxLdTHqVBSijKmOO5MAg](https://user-images.githubusercontent.com/85439997/191951114-29fd17c8-d18f-4e6f-9885-b3f64894f7b5.jpeg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;Welcome:)&center=true&size=25">
+  </a>
+<h3 align="center">Bu kod deposunda, Women in Tech Academy uygulama seanslarında çözülen Python sorularının çözümleri yayınlanacaktır.</h3>
+
+![Adsız tasarım (3)](https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
+
 
 Hafta-1: Ekiple tanışma etkinliği yapıldı.
 
