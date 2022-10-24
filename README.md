@@ -19,4 +19,4 @@ Hafta-4: Python fonksiyonlar konusunda sorular çözüldü.
 
 Hafta-5: Python lambda,map fonksiyonları ve listeler ile ilgili sorular çözüldü.
 
-Hafta-6: Python
+Hafta-6: Python set ve dictionary konularıyla ilgili sorular çözüldü.
